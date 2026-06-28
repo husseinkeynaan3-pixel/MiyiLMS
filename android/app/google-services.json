@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118027417609",
+    "project_id": "miyilms-f5589",
+    "storage_bucket": "miyilms-f5589.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118027417609:android:64dbb36c8439aab032e0d8",
+        "android_client_info": {
+          "package_name": "com.example.miyi_lms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkTcDqFI8RBftVbBqCO4LwBqs4g8Zrms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
